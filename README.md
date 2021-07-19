@@ -14,8 +14,8 @@ The project has three different interfaces:
 
 To install this repo on your own computer, follow these directions:
 
- - `git clone my_code_repo`
- - `cd my_code_repo/src`
+ - `git clone https://github.com/JonathanBechtel/policexray.git`
+ - `cd policexray/src`
  - `python app.py`
 
 ## Installing With a Development Environment
