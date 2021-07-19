@@ -7,7 +7,7 @@ The police xray project was designed to combine machine learning, policing outco
 The project has three different interfaces:
 
  - A public website at https://www.policexray.com, that allows people to do scenario analysis to see how a person's characteristics and behavior influence police outcomes
- - An api at https://www.police-project-test.xyz/api that allows developers to access the project's statistical model as a service, either to explore it programmatically or re-use it in their own ways
+ - An api at https://www.policexray.com/api that allows developers to access the project's statistical model as a service, either to explore it programmatically or re-use it in their own ways
  - This github repo, which will allow you to re-run our analysis from the command line and explore project artifacts directly
 
 # Installation
