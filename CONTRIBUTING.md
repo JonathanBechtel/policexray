@@ -26,9 +26,9 @@ Models are evaluated using the Area Under the Precision-Recall Curve, or Average
 
 Current benchmarks are as follows:
 
- `pulled - over / searched`: 0.215
- `pulled - over / arrested`: 0.255
- `being - searched / arrested`: 0.551
- `search - completed / arrested`: 0.714
+  - `pulled - over / searched`: 0.215
+  - `pulled - over / arrested`: 0.255
+  - `being - searched / arrested`: 0.551
+  - `search - completed / arrested`: 0.714
  
 These values came from using the average_precision_score metric on a 10% holdout set that was stratified by the target variable.  You can find the metric here:  https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html
