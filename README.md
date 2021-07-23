@@ -22,6 +22,10 @@ To install this repo on your own computer, follow these directions:
 
 It is recommended that you setup a development environment to make sure there are no discrepancies between different versions of the packages used to recreate the results.  The packages can be installed from either the `requirements.txt` or the  `environment.yml` file listed in the root directory.  Once you are inside the virtual environment with the correct packages installed you should be able to run `app.py` and re-create everything.
 
+## Getting the Data
+
+The data used for this project is published on kaggle and can be found here:  https://www.kaggle.com/jonathanbechtel/north-carolina-master-dataset-of-arrests.  You should download the data from this source before trying to re-create the analysis with `app.py`.
+
 ## Successfully Running app.py
 
 `app.py` is designed to execute a single file that will allow you to re-create all of the models used to generate the data on the main page of www.policexray.com.  However, to get it to run correctly you must supply four different arguments.  They are as follows:
